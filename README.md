@@ -1,6 +1,6 @@
-# **Basic Client Examples to demonstrate Outbound Calls using Enablex Voice APIs. **
-This example contains instructions how users can initiate Outbound Calls.
+# Unlocking Outbound Call Capabilities: A Guide to EnableX Programmable Voice API
 
+Initiate your outbound call solutions with EnableX Programmable Voice APIs! Our Basic Client Examples give you a firsthand experience of leveraging EnableX capabilities for initiating outbound calls, whether you're on a Mac, Linux, or Windows.
 
 ## Pre-requisite
 - You will need Enablex Application credentials, APP ID and APP KEY. To find credentials, register with EnableX (https://portal.enablex.io/cpaas/trial-sign-up/).
